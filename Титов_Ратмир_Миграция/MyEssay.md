@@ -1,5 +1,7 @@
 ## Обо мне:
 
+Прошел 2 года обучения в Яндекс Академии, работал с фрэймворком Django. Знаю Python, HTML, немного CSS
+---
 Почта - t.ratmir@yandex.ru
 Github - https://github.com/Misteriosur
 
